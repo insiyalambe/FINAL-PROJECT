@@ -1,5 +1,5 @@
 # Space Invader with a Twist
-final project for python-Spring 2022
+Final project for python-Spring 2022 _ Completed with peer Zafeer Lambe 
 
 
 
